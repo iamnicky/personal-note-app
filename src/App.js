@@ -6,24 +6,7 @@ import Header from './components/Header';
 
 function App() {
 {/*here we are adding three dummy notes in our useState hooks for notes*/}
-  const [notes,setNotes] = useState([
-    {
-    id: nanoid(),
-    text:"This is my first note",
-    date:"03/11/2021"
-  },
-  {
-    id: nanoid(),
-    text:"This is my second note",
-    date:"03/11/2021"
-  },
-  {
-    id: nanoid(),
-    text:"This is my third note",
-    date:"03/11/2021"
-  },
- 
-]);
+  const [notes,setNotes] = useState([]);
 {/*this are the staes for searching text and toggle mode*/}
 
 const [searchNote,setSearchNote] = useState('');
