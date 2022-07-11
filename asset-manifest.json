@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/personal-note-app/static/css/main.e939b228.chunk.css",
-    "main.js": "/personal-note-app/static/js/main.e39e30c9.chunk.js",
-    "main.js.map": "/personal-note-app/static/js/main.e39e30c9.chunk.js.map",
+    "main.js": "/personal-note-app/static/js/main.baa6f9aa.chunk.js",
+    "main.js.map": "/personal-note-app/static/js/main.baa6f9aa.chunk.js.map",
     "runtime-main.js": "/personal-note-app/static/js/runtime-main.8db41e5a.js",
     "runtime-main.js.map": "/personal-note-app/static/js/runtime-main.8db41e5a.js.map",
-    "static/js/2.5637472b.chunk.js": "/personal-note-app/static/js/2.5637472b.chunk.js",
-    "static/js/2.5637472b.chunk.js.map": "/personal-note-app/static/js/2.5637472b.chunk.js.map",
+    "static/js/2.721ae9e7.chunk.js": "/personal-note-app/static/js/2.721ae9e7.chunk.js",
+    "static/js/2.721ae9e7.chunk.js.map": "/personal-note-app/static/js/2.721ae9e7.chunk.js.map",
     "index.html": "/personal-note-app/index.html",
     "static/css/main.e939b228.chunk.css.map": "/personal-note-app/static/css/main.e939b228.chunk.css.map",
-    "static/js/2.5637472b.chunk.js.LICENSE.txt": "/personal-note-app/static/js/2.5637472b.chunk.js.LICENSE.txt"
+    "static/js/2.721ae9e7.chunk.js.LICENSE.txt": "/personal-note-app/static/js/2.721ae9e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8db41e5a.js",
-    "static/js/2.5637472b.chunk.js",
+    "static/js/2.721ae9e7.chunk.js",
     "static/css/main.e939b228.chunk.css",
-    "static/js/main.e39e30c9.chunk.js"
+    "static/js/main.baa6f9aa.chunk.js"
   ]
 }
